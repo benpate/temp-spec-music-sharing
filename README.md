@@ -59,3 +59,8 @@ First and foremost, we are talking about making a standalone [Fediverse server](
 | Search engine       | This could be large or small, depending on the scope.  If we're just searching a single site | Needs Work (large) |
 | Social feed         | This likely requires a human operator to populate. We should discuss a process for doing this.  | Needs Discussion |
 
+## Outstanding Questions
+
+? Need to research music streaming.  Can this be done with a simple .mp3 file, or do we require a streaming server?
+? A "social feed" could be very simple, or very complex, depending on how much human involvement we're expecting to have.
+? Money. I think bands should pay *something* towards hosting and bandwidth -- especially if they're streaming music.  Off the top of my head, I'm starting with $10/year for a profile and inclusion in the discovery list, $20/year for profile + uploads + streaming. For comparison BndCamp takes 10-15% (plus 5% transaction fee) of all transactions
