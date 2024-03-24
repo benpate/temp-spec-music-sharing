@@ -42,6 +42,7 @@ First and foremost, we are talking about making a standalone [Fediverse server](
 | Requirement         | Emissary | Status |
 | ------------------- | -------- | ------ |
 | **Band Profiles**   | Custom User Profiles are supported | READY |
+| Custom layout       | To be developed | Needs Work (medium) |
 | Custom colors       | Will need to add custom data to User profiles | Needs Work (small) |
 | Genre and Tags      | May need custom fields to mark the band's genre and other social tags | Needs Work (small) |
 | Upload music        | Audio/Video uploads will need some development | Needs Work (medium) | 
