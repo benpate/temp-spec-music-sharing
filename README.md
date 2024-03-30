@@ -2,28 +2,41 @@
 
 This is a follow up to a [discussion at the FediForum](https://n00q.net/blog/fedicamp-propsal/) (March 2024) about creating a music sharing service on the Fediverse - initially dubbed "FediCamp" by [@n00q](https://don.n00q.net/@n00q)
 
-### Requirement: A Fediverse Server
+## Requirement: A Fediverse Server
 First and foremost, we are talking about making a standalone [Fediverse server](https://fediverse.party) that would allow small bands to create profiles and share content with their followers on the Fediverse.
 
-### Requirement: Band Profile Page
+## Requirement: Band Pages
 
 * Customizable colors and graphics
-* Upload music and group into albums, including:
-    * Album Artwork
-    * Lyrics
-    * Date and other metadata
-    * Shareable URLs for albums/songs for fans to share on their own social media
-* Stream uploaded music <- will need details on this
+
+### Band Profile Page
 * Band photos and biographies
 * Links to other band URLs
-* Calendar of events, with locations and links to ticket sales (possibly Federated)
-* Other social posts that show up on the Fediverse
-    * Blog posts
-    * Photos
-    * Upcoming dates (see calendar)
-    * Other recommended bands
+* Endorsements (links to other Bands)
 
-### Requirement: Music Discovery Service
+### Show Calendar
+* Calendar of events, with locations and links to ticket sales (possibly Federated)
+* Upcoming dates (see calendar)
+
+### News Page
+* Other social posts that show up on the Fediverse
+* Blog posts
+* Photos
+
+### Album Pages
+
+* !! Shareable URLs for albums/songs
+* Album Titles
+* Album Artwork
+* Album Date & Description
+* Song Name, Track Number
+* Song Lyrics
+* Song Playtime
+* Stream uploaded music <- will need details on this
+   * Whole album
+   * Individual songs
+
+## Requirement: Music Discovery Service
 
 * A list or group fans can follow for information on bands they like
     * New bands to follow that match my musical taste
@@ -31,7 +44,7 @@ First and foremost, we are talking about making a standalone [Fediverse server](
     * Show dates/locations
 * Search bands by name, genre, hashtag
 
-### Non-Goals
+## Non-Goals
 
 * Do not focus on paid downloads. This is not important to many bands.
 * Do not focus on merchandise sales. Bands often have another provider for merch.
